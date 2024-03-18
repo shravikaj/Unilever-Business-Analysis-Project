@@ -21,15 +21,15 @@ Many employees have requested a system that would permit a canteen user to order
 
 Advantages of the Canteen Ordering System:
 
-A system would save considerable time to those employees who use the service.
+*A system would save considerable time to those employees who use the service.
 
-It would increase the chance of them getting the food items they prefer.
+*It would increase the chance of them getting the food items they prefer.
 
-This would improve both their quality of work life and their productivity.
+*This would improve both their quality of work life and their productivity.
 
-The food wastage will be reduced.
+*The food wastage will be reduced.
 
-This will reduce the cost.
+*This will reduce the cost.
 
  
 
@@ -79,39 +79,39 @@ Client has given them the following requirements:
 
  
 
-The employee shall open the web page of the Canteen Ordering System. He/she shall be presented with an up-to-date menu for the day. It will have a list of all the dishes available in the canteen for the day along with its prices. 
+1.The employee shall open the web page of the Canteen Ordering System. He/she shall be presented with an up-to-date menu for the day. It will have a list of all the dishes available in the canteen for the day along with its prices. 
 
-The lunch order can be placed by employees latest by 11 am. After 11 am the system shall not allow the users to place orders for lunch items so that the chefs have sufficient time to cook the ordered dishes. There should be a Menu Manager (a canteen employee) who shall create the menu and update the menu.
+2.The lunch order can be placed by employees latest by 11 am. After 11 am the system shall not allow the users to place orders for lunch items so that the chefs have sufficient time to cook the ordered dishes. There should be a Menu Manager (a canteen employee) who shall create the menu and update the menu.
 
-The users can select the lunch dishes they would like to eat and create an order. They should be able to edit the items they want to order anytime before checking out. 
+3.The users can select the lunch dishes they would like to eat and create an order. They should be able to edit the items they want to order anytime before checking out. 
 
-Once the order is confirmed and the user has checked out, they should NOT be able to cancel or edit the order.
+4.Once the order is confirmed and the user has checked out, they should NOT be able to cancel or edit the order.
 
-The canteen manager also known as order processor should be able to view the orders placed by the employees. He shall take an inventory of all the dishes ordered by different users and get them cooked by the chef. 
+5.The canteen manager also known as order processor should be able to view the orders placed by the employees. He shall take an inventory of all the dishes ordered by different users and get them cooked by the chef. 
 
-This canteen manager should be able to request a delivery to the employees’ workstation. 
+6.This canteen manager should be able to request a delivery to the employees’ workstation. 
 
-There shall be a meal deliverer (delivery boy) who shall deliver the lunch to the employee's desk. After delivering the lunch, this delivery boy shall close the online customer order.
+7.There shall be a meal deliverer (delivery boy) who shall deliver the lunch to the employee's desk. After delivering the lunch, this delivery boy shall close the online customer order.
 
-If a customer does not like any food item or is not happy with the delivery system by the canteen, they should be able to submit feedback. 
+8.If a customer does not like any food item or is not happy with the delivery system by the canteen, they should be able to submit feedback. 
 
-There is no payment gateway for the same so the payment for dishes ordered shall be deducted from employee’s salary. Hence, the employees need to enroll for salary payment deduction. The payroll system will handle payroll deductions.
+9.There is no payment gateway for the same so the payment for dishes ordered shall be deducted from employee’s salary. Hence, the employees need to enroll for salary payment deduction. The payroll system will handle payroll deductions.
 
-At the end of the month the payroll system shall calculate the total number  of dishes ordered by each employee. The payroll system shall deduct money  from the employee’s salary. 
+10.At the end of the month the payroll system shall calculate the total number  of dishes ordered by each employee. The payroll system shall deduct money  from the employee’s salary. 
 
-Management would like the following reports:
+11.Management would like the following reports:
 
-Which dishes are the most popular?
+*Which dishes are the most popular?
 
-How many employees are using the system?
+*How many employees are using the system?
 
-Satisfaction of the employees on using the system. This should be tracked on the basis of feedback submitted by the employees.
+*Satisfaction of the employees on using the system. This should be tracked on the basis of feedback submitted by the employees.
 
-Sales for each day
+*Sales for each day
 
-Total monthly earnings
+*Total monthly earnings
 
-Order forecasting i.e. a prediction of which items will be ordered and when they will be ordered.
+*Order forecasting i.e. a prediction of which items will be ordered and when they will be ordered.
 
  
 
@@ -131,24 +131,24 @@ The screens should be self-explanatory and very user friendly. Management would 
 
 Project Task: 
 
-Identifying stakeholders – Create a list of stakeholders (as taught in Business Analysis Planning and Monitoring Knowledge Area)
+1.Identifying stakeholders – Create a list of stakeholders (as taught in Business Analysis Planning and Monitoring Knowledge Area)
 
-Identify the problem statement in this system.
+2.Identify the problem statement in this system.
 
-Identify objectives of the new Canteen Ordering System.
+3.Identify objectives of the new Canteen Ordering System.
 
-Create as-is and future process map (using flowcharts). You can use any of the popular tools in the market like Microsoft Visio, Lucid Chart, Creately, Pidoco, or Balsamiq
+4.Create as-is and future process map (using flowcharts). You can use any of the popular tools in the market like Microsoft Visio, Lucid Chart, Creately, Pidoco, or Balsamiq
 
-As a Business Analyst working on this project, find out the scope of the Canteen Ordering System. To find the scope you can use the case diagram (UML) or context diagram for the same.
+5.As a Business Analyst working on this project, find out the scope of the Canteen Ordering System. To find the scope you can use the case diagram (UML) or context diagram for the same.
 
-Write down the main features that need to be developed.
+6.Write down the main features that need to be developed.
 
-Write the in-scope and out-of-scope items for this software.
+7.Write the in-scope and out-of-scope items for this software.
 
-Draw an activity diagram for the system.
+8.Draw an activity diagram for the system.
 
-Draw an ER diagram of the system.
+9.Draw an ER diagram of the system.
 
-Write out the business requirements, both the functional and nonfunctional requirements. 
+10.Write out the business requirements, both the functional and nonfunctional requirements. 
 
-Draw wireframes or mock screens for any two of the features namely Menu Creation and any other feature as deemed fit by the student. (Use the technique prototyping or wire framing that is taught in the Training). You can use any of the wireframing tools like Microsoft PowerPoint, Microsoft Word, Balsamiq, Sketch, Adobe XD, Adobe Illustrator, Figma, UXPin, InVision Studio, InVision Freehand, or Moqups.
+11.Draw wireframes or mock screens for any two of the features namely Menu Creation and any other feature as deemed fit by the student. (Use the technique prototyping or wire framing that is taught in the Training). You can use any of the wireframing tools like Microsoft PowerPoint, Microsoft Word, Balsamiq, Sketch, Adobe XD, Adobe Illustrator, Figma, UXPin, InVision Studio, InVision Freehand, or Moqups.
